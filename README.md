@@ -104,7 +104,7 @@ Built with multithreading & client–server architecture.
 🌐 **Portfolio:**  *https://rp618-portfolio.vercel.app/*  
 💼 **LinkedIn:** *https://www.linkedin.com/in/rohit-sharma-62501b2b5/*  
 🐙 **GitHub:**   *https://github.com/rohitsharma-618*  
-✉️ **Email:**   *rohitsharma6378@gamil.com*
+✉️ **Email:**   *rohitsharma6378@gmail.com*
 
 ---
 
